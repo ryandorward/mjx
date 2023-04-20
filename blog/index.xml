@@ -2,36 +2,36 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Blogs on MJX</title>
-    <link>https://mjx.ca/blog/</link>
+    <link>https://ryandorward.github.io/blog/</link>
     <description>Recent content in Blogs on MJX</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Copyright &amp;copy; 2023 Designed by [MJX](https://mjx.ca)</copyright>
-    <lastBuildDate>Wed, 12 Sep 2018 14:51:12 +0600</lastBuildDate><atom:link href="https://mjx.ca/blog/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 12 Sep 2018 14:51:12 +0600</lastBuildDate><atom:link href="https://ryandorward.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Are You Doing the Right Way</title>
-      <link>https://mjx.ca/blog/simple-blog-post-8/</link>
+      <link>https://ryandorward.github.io/blog/simple-blog-post-8/</link>
       <pubDate>Wed, 12 Sep 2018 14:51:12 +0600</pubDate>
       
-      <guid>https://mjx.ca/blog/simple-blog-post-8/</guid>
+      <guid>https://ryandorward.github.io/blog/simple-blog-post-8/</guid>
       <description>Praesent sapien massa, convallis a pellentesque nec, egestas non nisi. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae.</description>
     </item>
     
     <item>
       <title>How To Setup Meghna Hugo</title>
-      <link>https://mjx.ca/blog/installation/</link>
+      <link>https://ryandorward.github.io/blog/installation/</link>
       <pubDate>Wed, 12 Sep 2018 14:51:12 +0600</pubDate>
       
-      <guid>https://mjx.ca/blog/installation/</guid>
+      <guid>https://ryandorward.github.io/blog/installation/</guid>
       <description>Install this template by following those simple steps: STEP-1 : Hugo installation Check this link below for install hugo on your computer.</description>
     </item>
     
     <item>
       <title>Simple Blog Post</title>
-      <link>https://mjx.ca/blog/simple-blog-post-7/</link>
+      <link>https://ryandorward.github.io/blog/simple-blog-post-7/</link>
       <pubDate>Wed, 12 Sep 2018 12:52:36 +0600</pubDate>
       
-      <guid>https://mjx.ca/blog/simple-blog-post-7/</guid>
+      <guid>https://ryandorward.github.io/blog/simple-blog-post-7/</guid>
       <description>Praesent sapien massa, convallis a pellentesque nec, egestas non nisi. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae.</description>
     </item>
     
