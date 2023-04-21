@@ -2,10 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on MJX</title>
-    <link>https://ryandorward.github.io/mjx/categories/</link>
+    <link>https://mjx.ca/categories/</link>
     <description>Recent content in Categories on MJX</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>Copyright &amp;copy; 2023 Designed by [MJX](https://mjx.ca)</copyright><atom:link href="https://ryandorward.github.io/mjx/categories/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>Copyright &amp;copy; 2023 Designed by [MJX](https://mjx.ca)</copyright><atom:link href="https://mjx.ca/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
