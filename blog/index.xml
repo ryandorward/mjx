@@ -7,32 +7,41 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Copyright &amp;copy; 2023 Designed by [MJX](https://mjx.ca)</copyright>
-    <lastBuildDate>Tue, 18 Apr 2023 14:51:12 +0600</lastBuildDate><atom:link href="https://mjx.ca/blog/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 23 Apr 2023 14:51:12 +0600</lastBuildDate><atom:link href="https://mjx.ca/blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>How to Moo: A Comprehensive Guide to the Art of Cow Imitation</title>
-      <link>https://mjx.ca/blog/moo/</link>
-      <pubDate>Tue, 18 Apr 2023 14:51:12 +0600</pubDate>
+      <title>1. Discovery &#43; Diagnosis</title>
+      <link>https://mjx.ca/blog/discovery/</link>
+      <pubDate>Sun, 23 Apr 2023 14:51:12 +0600</pubDate>
       
-      <guid>https://mjx.ca/blog/moo/</guid>
-      <description>If you&amp;rsquo;ve ever been fascinated by the mellifluous sounds that cows make, you&amp;rsquo;re not alone. In this blog post, we&amp;rsquo;ll explore the surprisingly intricate art of mooing, covering all the necessary steps to help you create a convincing and authentic moo.</description>
+      <guid>https://mjx.ca/blog/discovery/</guid>
+      <description>Shared understanding</description>
     </item>
     
     <item>
-      <title>Bruce Lee Quotes: Wisdom from the Master</title>
-      <link>https://mjx.ca/blog/bruce-lee-quotes/</link>
-      <pubDate>Fri, 24 Mar 2023 14:51:12 +0600</pubDate>
+      <title>2. Strategy</title>
+      <link>https://mjx.ca/blog/strategy/</link>
+      <pubDate>Sun, 23 Apr 2023 14:51:12 +0600</pubDate>
       
-      <guid>https://mjx.ca/blog/bruce-lee-quotes/</guid>
-      <description>There&amp;rsquo;s something quaint and slightly cheesy about Bruce Lee, but some of his quotes are actually really good!</description>
+      <guid>https://mjx.ca/blog/strategy/</guid>
+      <description>Plan of action</description>
     </item>
     
     <item>
-      <title>Filler Blog Post</title>
-      <link>https://mjx.ca/blog/filler-blog-post/</link>
-      <pubDate>Wed, 12 Sep 2018 12:52:36 +0600</pubDate>
+      <title>3. Design &#43; Develop</title>
+      <link>https://mjx.ca/blog/design-development/</link>
+      <pubDate>Sun, 23 Apr 2023 14:51:12 +0600</pubDate>
       
-      <guid>https://mjx.ca/blog/filler-blog-post/</guid>
-      <description>Praesent sapien massa, convallis a pellentesque nec, egestas non nisi. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae.</description>
+      <guid>https://mjx.ca/blog/design-development/</guid>
+      <description>Build</description>
+    </item>
+    
+    <item>
+      <title>4. Post-Launch</title>
+      <link>https://mjx.ca/blog/design-development/</link>
+      <pubDate>Sun, 23 Apr 2023 14:51:12 +0600</pubDate>
+      
+      <guid>https://mjx.ca/blog/design-development/</guid>
+      <description>Evaluate and evolve</description>
     </item>
     
   </channel>

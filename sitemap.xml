@@ -2,20 +2,23 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://mjx.ca/blog/</loc>
-    <lastmod>2023-04-18T14:51:12+06:00</lastmod>
+    <loc>https://mjx.ca/blog/discovery/</loc>
+    <lastmod>2023-04-23T14:51:12+06:00</lastmod>
   </url><url>
-    <loc>https://mjx.ca/blog/moo/</loc>
-    <lastmod>2023-04-18T14:51:12+06:00</lastmod>
+    <loc>https://mjx.ca/blog/strategy/</loc>
+    <lastmod>2023-04-23T14:51:12+06:00</lastmod>
+  </url><url>
+    <loc>https://mjx.ca/blog/design-development/</loc>
+    <lastmod>2023-04-23T14:51:12+06:00</lastmod>
+  </url><url>
+    <loc>https://mjx.ca/blog/design-development/</loc>
+    <lastmod>2023-04-23T14:51:12+06:00</lastmod>
+  </url><url>
+    <loc>https://mjx.ca/blog/</loc>
+    <lastmod>2023-04-23T14:51:12+06:00</lastmod>
   </url><url>
     <loc>https://mjx.ca/</loc>
-    <lastmod>2023-04-18T14:51:12+06:00</lastmod>
-  </url><url>
-    <loc>https://mjx.ca/blog/bruce-lee-quotes/</loc>
-    <lastmod>2023-03-24T14:51:12+06:00</lastmod>
-  </url><url>
-    <loc>https://mjx.ca/blog/filler-blog-post/</loc>
-    <lastmod>2018-09-12T12:52:36+06:00</lastmod>
+    <lastmod>2023-04-23T14:51:12+06:00</lastmod>
   </url><url>
     <loc>https://mjx.ca/author/</loc>
   </url><url>
