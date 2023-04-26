@@ -2,6 +2,12 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://mjx.ca/blog/</loc>
+    <lastmod>2023-04-23T14:51:12+06:00</lastmod>
+  </url><url>
+    <loc>https://mjx.ca/</loc>
+    <lastmod>2023-04-23T14:51:12+06:00</lastmod>
+  </url><url>
     <loc>https://mjx.ca/blog/discovery/</loc>
     <lastmod>2023-04-23T14:51:12+06:00</lastmod>
   </url><url>
@@ -12,12 +18,6 @@
     <lastmod>2023-04-23T14:51:12+06:00</lastmod>
   </url><url>
     <loc>https://mjx.ca/blog/post-launch/</loc>
-    <lastmod>2023-04-23T14:51:12+06:00</lastmod>
-  </url><url>
-    <loc>https://mjx.ca/blog/</loc>
-    <lastmod>2023-04-23T14:51:12+06:00</lastmod>
-  </url><url>
-    <loc>https://mjx.ca/</loc>
     <lastmod>2023-04-23T14:51:12+06:00</lastmod>
   </url><url>
     <loc>https://mjx.ca/author/</loc>
